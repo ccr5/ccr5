@@ -1,4 +1,10 @@
-### Hi there 👋
+# Matheus Nobre 👋
+
+### Desenvolvedor cursando 10º Semestre de Engenharia da Computação.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=ccr5&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccr5&langs_count=10&layout=compact&theme=radical)](https://github.com/ccr5/github-readme-stats)
 
 <!--
 **ccr5/ccr5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adamalston)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.lissonez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lissone/)
 -->
