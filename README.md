@@ -18,6 +18,7 @@ I work in the development and data area with experience in planning and business
 - [Velh-IA](https://github.com/ccr5/Velh-IA) -> Artificial Collective consciousness: A New Way To Study, Learn and Have A Fun!
 - [Data Analysis Challenge Solution](https://github.com/ccr5/data-analysis-challenge-solution) -> Challenge solution of Business Intelligence job
 - [ETL Automation Solution](https://github.com/ccr5/ETL-automation-solution) -> ETL solution proposal for a company
+- [Country Administration Analysis](https://github.com/ccr5/country-administration-analysis) -> Identification of patterns that provide growth and quality of life in a country
 - [Deck Creator for Anki](https://github.com/ccr5/Deck-Creator-For-Anki) -> A web scraping script to create your Anki decs
 - [Custom visual for PowerBI](https://github.com/ccr5/PowerBI-Custom-Visual) -> *-* A little bar chart *-*
 
