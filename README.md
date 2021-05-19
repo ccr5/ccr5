@@ -8,6 +8,35 @@ I work in the development and data area with experience in planning and business
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccr5&langs_count=10&layout=compact&theme=merko&hide=html,css,shell,dockerfile,less)](https://github.com/ccr5/github-readme-stats)
 
+## Projects Summary
+
+### Blockchain
+- [Brasileirao Championship DApp](https://github.com/ccr5/brasileirao-championship-dapp)
+
+### Data Science
+- [Velh-IA](https://github.com/ccr5/Velh-IA)
+- [Ovomaltino](https://github.com/ccr5/Ovomaltino)
+- [Data Analysis Challenge Solution](https://github.com/ccr5/data-analysis-challenge-solution)
+- [ETL Automation Solution](https://github.com/ccr5/ETL-automation-solution)
+- [Deck Creator for Anki](https://github.com/ccr5/Deck-Creator-For-Anki)
+- [Custom visual for PowerBI](https://github.com/ccr5/PowerBI-Custom-Visual)
+
+### Libraries & Packages
+- [Hash Functions Module for Python](https://github.com/ccr5/hashing-python-module)
+
+### Embedded systems
+- [OBDH](https://github.com/ccr5/obdh)
+- [External Watchdog for OBDH](https://github.com/ccr5/External-Watchdog-OBDH)
+- [TT&C](https://github.com/ccr5/ttc)
+- [IoT App](https://github.com/ccr5/IoT-App)
+
+### Web
+- [API Phoenix Elixir](https://github.com/ccr5/api-phoenix-elixir)
+- [API Ovomaltino using MongoDB](https://github.com/ccr5/api-mongodb-ovomaltino)
+- [SaganSat Website](https://github.com/ccr5/website)
+
+
+
 ## 📫 Contato
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matt-gomes@live.com)
