@@ -11,29 +11,29 @@ I work in the development and data area with experience in planning and business
 ## Projects Summary
 
 ### Blockchain
-- [Brasileirao Championship DApp](https://github.com/ccr5/brasileirao-championship-dapp)
+- [Brasileirao Championship DApp](https://github.com/ccr5/brasileirao-championship-dapp) -> Bet in your favorite team using Eniac Token on Ethereum blockchain
 
 ### Data Science
-- [Velh-IA](https://github.com/ccr5/Velh-IA)
-- [Ovomaltino](https://github.com/ccr5/Ovomaltino)
-- [Data Analysis Challenge Solution](https://github.com/ccr5/data-analysis-challenge-solution)
-- [ETL Automation Solution](https://github.com/ccr5/ETL-automation-solution)
-- [Deck Creator for Anki](https://github.com/ccr5/Deck-Creator-For-Anki)
-- [Custom visual for PowerBI](https://github.com/ccr5/PowerBI-Custom-Visual)
+- [Ovomaltino](https://github.com/ccr5/Ovomaltino) -> Multiagent system model using sociological theories
+- [Velh-IA](https://github.com/ccr5/Velh-IA) -> Artificial Collective consciousness: A New Way To Study, Learn and Have A Fun!
+- [Data Analysis Challenge Solution](https://github.com/ccr5/data-analysis-challenge-solution) -> Challenge solution of Business Intelligence job
+- [ETL Automation Solution](https://github.com/ccr5/ETL-automation-solution) -> ETL solution proposal for a company
+- [Deck Creator for Anki](https://github.com/ccr5/Deck-Creator-For-Anki) -> A web scraping script to create your Anki decs
+- [Custom visual for PowerBI](https://github.com/ccr5/PowerBI-Custom-Visual) -> *-* A little bar chart *-*
 
 ### Libraries & Packages
-- [Hash Functions Module for Python](https://github.com/ccr5/hashing-python-module)
+- [Hash Functions Module for Python](https://github.com/ccr5/hashing-python-module) -> Python module to implement hash functions
 
 ### Embedded systems
 - [OBDH](https://github.com/ccr5/obdh)
 - [External Watchdog for OBDH](https://github.com/ccr5/External-Watchdog-OBDH)
 - [TT&C](https://github.com/ccr5/ttc)
-- [IoT App](https://github.com/ccr5/IoT-App)
+- [IoT App](https://github.com/ccr5/IoT-App) -> IoT App using kivy framework to IoT
 
 ### Web
-- [API Phoenix Elixir](https://github.com/ccr5/api-phoenix-elixir)
-- [API Ovomaltino using MongoDB](https://github.com/ccr5/api-mongodb-ovomaltino)
-- [SaganSat Website](https://github.com/ccr5/website)
+- [API Phoenix Elixir](https://github.com/ccr5/api-phoenix-elixir) -> API template using Phoenix Framework to help us!
+- [API Ovomaltino using MongoDB](https://github.com/ccr5/api-mongodb-ovomaltino) -> API with MongoDB to store your Ovomaltino data
+- [SaganSat Website](https://github.com/ccr5/website) -> The website code of SaganSat
 
 
 
