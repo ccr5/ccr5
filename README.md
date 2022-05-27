@@ -8,7 +8,17 @@ I work in the development and data area with experience in planning and business
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccr5&langs_count=10&layout=compact&theme=merko&hide=html,css,shell,dockerfile,less)](https://github.com/ccr5/github-readme-stats)
 
-## Projects Summary
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matt-gomes@live.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattnobre/)
+[![WhatsApp](https://img.shields.io/badge/-WHATSAPP-00FF00?style=for-the-badge&logo=whatsApp&logoColor=white)](https://api.whatsapp.com/send?phone=5511995660126)
+
+## 📫 Organizations
+
+- [Ovomaltino](https://github.com/Ovomaltino)
+
+## Personal Projects Summary
 
 ### Blockchain
 - [Brasileirao Championship DApp](https://github.com/ccr5/brasileirao-championship-dapp) -> Bet in your favorite team using Eniac Token on Ethereum blockchain
@@ -25,26 +35,16 @@ I work in the development and data area with experience in planning and business
 ### Libraries & Packages
 - [Hash Functions Module for Python](https://github.com/ccr5/hashing-python-module) -> Python module to implement hash functions
 
-### Embedded systems
-- [OBDH](https://github.com/ccr5/obdh)
-- [External Watchdog for OBDH](https://github.com/ccr5/External-Watchdog-OBDH)
-- [TT&C](https://github.com/ccr5/ttc)
-- [IoT App](https://github.com/ccr5/IoT-App) -> IoT App using kivy framework to IoT
-
 ### Web
 - [API Phoenix Elixir](https://github.com/ccr5/api-phoenix-elixir) -> API template using Phoenix Framework to help us!
 - [API Ovomaltino using MongoDB](https://github.com/ccr5/api-mongodb-ovomaltino) -> API with MongoDB to store your Ovomaltino data
 - [SaganSat Website](https://github.com/ccr5/website) -> The website code of SaganSat
 
-
-
-## 📫 Contato
-
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matt-gomes@live.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattnobre/)
-[![WhatsApp](https://img.shields.io/badge/-WHATSAPP-00FF00?style=for-the-badge&logo=whatsApp&logoColor=white)](https://api.whatsapp.com/send?phone=5511995660126)
-
-
+### Embedded systems
+- [OBDH](https://github.com/ccr5/obdh)
+- [External Watchdog for OBDH](https://github.com/ccr5/External-Watchdog-OBDH)
+- [TT&C](https://github.com/ccr5/ttc)
+- [IoT App](https://github.com/ccr5/IoT-App) -> IoT App using kivy framework to IoT
 
 <!--
 **ccr5/ccr5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
