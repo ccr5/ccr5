@@ -21,7 +21,8 @@ I work in the development and data area with experience in planning and business
 ## Personal Projects Summary
 
 ### Blockchain
-- [Brasileirao Championship DApp](https://github.com/ccr5/brasileirao-championship-dapp) -> Bet in your favorite team using Eniac Token on Ethereum blockchain
+- [Warriors dApp](https://github.com/ccr5/warriors-dapp) -> Web3 game for you to challenge other players or teams (dApp)
+- [Warriors SC](https://github.com/ccr5/warriors-smart-contract) -> Web3 game for you to challenge other players or teams (Smart Contract)
 
 ### Data Science
 - [Ovomaltino](https://github.com/ccr5/Ovomaltino) -> Multiagent system model using sociological theories
