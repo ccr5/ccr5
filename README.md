@@ -42,9 +42,6 @@ I work in the development and data area with experience in planning and business
 - [SaganSat Website](https://github.com/ccr5/website) -> The website code of SaganSat
 
 ### Embedded systems
-- [OBDH](https://github.com/ccr5/obdh)
-- [External Watchdog for OBDH](https://github.com/ccr5/External-Watchdog-OBDH)
-- [TT&C](https://github.com/ccr5/ttc)
 - [IoT App](https://github.com/ccr5/IoT-App) -> IoT App using kivy framework to IoT
 
 <!--
