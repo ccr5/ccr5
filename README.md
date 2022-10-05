@@ -4,7 +4,7 @@
 I work in the development and data area with experience in planning and business and excited about all the advances and discoveries that will come through science and technology. Computer engineer and seeking new qualified knowledge to aggregate experiences and techniques of market and business with engineering and technology to solve problems and collaborate with professionals and people from all over the world.
 </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ccr5&show_icons=true&theme=merko&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ccr5&show_icons=true&theme=merko&count_private=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccr5&langs_count=10&layout=compact&theme=merko&hide=html,css,shell,dockerfile,less)](https://github.com/ccr5/github-readme-stats)
 
@@ -34,3 +34,5 @@ I work in the development and data area with experience in planning and business
 ### Web
 - [API Phoenix Elixir](https://github.com/ccr5/api-phoenix-elixir) -> API template using Phoenix Framework to help us!
 - [API Ovomaltino using MongoDB](https://github.com/ccr5/api-mongodb-ovomaltino) -> API with MongoDB to store your Ovomaltino data
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ccr5)](https://github.com/ccr5/github-readme-stats)
