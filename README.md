@@ -23,13 +23,12 @@ I work in the development and data area with experience in planning and business
 ### Blockchain
 - [Warriors dApp](https://github.com/ccr5/warriors-dapp) -> Web3 game for you to challenge other players or teams (dApp)
 - [Warriors SC](https://github.com/ccr5/warriors-smart-contract) -> Web3 game for you to challenge other players or teams (Smart Contract)
+- [Brasileirao Championship dApp](https://github.com/ccr5/brasileirao-championship-dapp) -> A simple bet website (dApp)
+- [Brasileirao Championship SC](https://github.com/ccr5/brasileirao-championship-smart-contract) -> A simple bet website (Smart Contract)
 
-### Data Science
+### AI
 - [Ovomaltino](https://github.com/ccr5/Ovomaltino) -> Multiagent system model using sociological theories
 - [Velh-IA](https://github.com/ccr5/Velh-IA) -> Artificial Collective consciousness: A New Way To Study, Learn and Have A Fun!
-
-### Libraries & Packages
-- [Hash Functions Module for Python](https://github.com/ccr5/hashing-python-module) -> Python module to implement hash functions
 
 ### Web
 - [API Phoenix Elixir](https://github.com/ccr5/api-phoenix-elixir) -> API template using Phoenix Framework to help us!
