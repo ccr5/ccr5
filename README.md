@@ -1,8 +1,6 @@
 # Matheus Nobre 👋
 ![](https://komarev.com/ghpvc/?username=ccr5&color=green&style=flat-square)
-<p>
-I work in the development and data area with experience in planning and business and excited about all the advances and discoveries that will come through science and technology. Computer engineer and seeking new qualified knowledge to aggregate experiences and techniques of market and business with engineering and technology to solve problems and collaborate with professionals and people from all over the world.
-</p>
+<p></p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ccr5&show_icons=true&theme=merko&count_private=true&include_all_commits=true)
 
