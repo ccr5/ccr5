@@ -4,7 +4,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ccr5&show_icons=true&theme=merko&count_private=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccr5&langs_count=10&layout=compact&theme=merko&hide=html,css,shell,dockerfile,less)](https://github.com/ccr5/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccr5&langs_count=10&layout=compact&theme=merko&hide=html,css,shell,dockerfile,less,hcl)](https://github.com/ccr5/github-readme-stats)
 
 ## 📫 Contact
 
