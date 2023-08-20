@@ -2,7 +2,17 @@
 ![](https://komarev.com/ghpvc/?username=ccr5&color=green&style=flat-square)
 <p></p>
 
-I'm a developer for carrear, hobbie and love 🖤. 
+I'm a developer for carrear, hobbie and love 🖤.
+
+Developing since 2014 and as a professional for over 5 years. I got experiences throughout the software development cycle. My expertise is in blockchain and backend area.
+
+My story with technology start when a saw my uncle building a website and wrote my first HTML tag. From that day on, I knew I wanted this (technology) for whole life. 
+
+So I started taking some computer courses, where I learnded about network and maintanence of computer, but my passion was always programming. My first programming language was Visual. 
+
+During my degree, my knowledge grew exponentially. I build many difference projects for many platforms (low and high level). I'm always developing and learning a new framework or programming language, even in my spare time, because that's what I love. Another important milestone happened when I heard about Bitcoin. First as an enthusiast, then as a developer until today, when this has become my expertise and what I want to be involved with for the rest of my life.
+
+I enjoy learning and talking about neuroscience, engineering, physics, AI and future technologies. My favorite movie, series and book genre is horror.
 
 ## 🔧 Skills
 
