@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=ccr5&color=green&style=flat-square)
 <p></p>
 
-I'm a developer for carrear, hobbie and love 🖤.
+I'm a developer by career, hobby and love 🖤.
 
 Developing since 2014 and as a professional for over 5 years. I got experiences throughout the software development cycle. My expertise is in blockchain and backend area.
 
