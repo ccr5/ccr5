@@ -54,6 +54,8 @@ I enjoy learning and talking about neuroscience, engineering, physics, AI and fu
 
 - E-mail: matt-gomes@live.com
 - LinkedIn: [mattnobre](https://www.linkedin.com/in/mattnobre)
+- Medium: [@matt-gomes](https://medium.com/@matt-gomes)
+- Twitter: [@MatNobr](https://twitter.com/MatNobr)
 
 
 ## Stats
